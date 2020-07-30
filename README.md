@@ -1,2 +1,2 @@
 # Deep-Composer-GANs-AWS
-Deep Composer with custom GANs 
+AWS Deep Composer with custom GANs on a AWS Sage Maker Cloud.
